@@ -2226,7 +2226,7 @@
     </message>
     <message>
       <source>There are no online operators at the moment, please leave your message</source>
-      <translation>此刻有没有在线运营商，请留下您的消息</translation>
+      <translation>此刻没有在线运营商，请留下您的消息</translation>
     </message>
     <message>
       <source>Choose your language</source>
